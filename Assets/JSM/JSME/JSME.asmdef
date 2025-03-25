@@ -1,0 +1,17 @@
+{
+    "name": "JSME",
+    "rootNamespace": "",
+    "references": [
+        "GUID:25bb11dd35c063e4aa2c7cccc0212586",
+        "GUID:cd0624525ae0db442b9d3d7f27953406"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
